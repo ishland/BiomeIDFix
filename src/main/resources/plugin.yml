@@ -1,0 +1,7 @@
+name: BiomeIDFix
+version: @version@
+main: com.ishland.bukkit.biomeidfix.BiomeIDFix
+api-version: 1.16
+depend: [ProtocolLib]
+authors: [ishland]
+description: Fix biome id
